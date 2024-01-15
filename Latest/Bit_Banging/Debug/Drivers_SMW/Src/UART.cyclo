@@ -1,0 +1,10 @@
+../Drivers_SMW/Src/UART.c:34:9:UART_EN_DI	4
+../Drivers_SMW/Src/UART.c:73:6:UART_INI_DEINI	5
+../Drivers_SMW/Src/UART.c:134:6:UART_Baudrate	1
+../Drivers_SMW/Src/UART.c:155:9:UART_Oversampling	1
+../Drivers_SMW/Src/UART.c:176:6:UART_Start_End	2
+../Drivers_SMW/Src/UART.c:216:6:UART_STOP_Bit	2
+../Drivers_SMW/Src/UART.c:240:6:UART_Parity_Bit	3
+../Drivers_SMW/Src/UART.c:273:9:UART_Send_Rec_Bit	1
+../Drivers_SMW/Src/UART.c:303:6:UART_Send_Rec_Byte	3
+../Drivers_SMW/Src/UART.c:336:6:UART_MSG_SEND_REC	3
